@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: The request doesn't go to the server and instead everything is requested at the initial load, so it's slower to start up, but afterwards it only requests what is needed so that the screen isn't constantly refreshing and flickering.
 
 ## Project Set Up
 
