@@ -1,10 +1,12 @@
-import React, { useState } from "react";
+import React , { useState } from "react";
+import styled from "styled-components";
 
-export default function SearchForm() {
+
+
+
+const SearchForm = ({ onSearch }) => {
  
-  return (
-    <section className="search-form">
-     // Add a search form here
-    </section>
-  );
+ 
+
 }
+export default SearchForm; 
